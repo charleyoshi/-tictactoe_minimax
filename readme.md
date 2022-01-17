@@ -25,8 +25,8 @@ python3 runner.py
 
 ## Authors
 
-ex. Charley Tsang  
-ex. [@CharleyTsang](https://charleytsang.io)
+ex. Charley Yoshi  
+ex. [@charleyoshi](https://charleytsang.io)
 
 ## Version History
 
